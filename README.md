@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" /> Manuel Lopez</h1>
+  <h1>👋 Manuel Lopez</h1>
   <p>
     <b>Full-Stack Engineer</b> · TypeScript, Go, React, Angular, Node.js
   </p>
@@ -12,7 +12,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" height="25" /> About Me
+### 👨‍💻 About Me
 
 I build automation systems, real-time monitoring platforms, and developer tooling. I've written a **custom Lua runtime** from scratch, an **8085 microprocessor emulator**, a **Chip-8 interpreter**, a **Bluetooth-connected IoT health app** with firmware, and an **audiobook platform** — all in TypeScript and Go.
 
@@ -22,7 +22,7 @@ I thrive in high-pressure environments, learn by building, and use AI-assisted w
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" /> Featured Projects
+### 🔧 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -37,7 +37,7 @@ I thrive in high-pressure environments, learn by building, and use AI-assisted w
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" height="25" /> Tech Stack
+### 🏆 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -59,7 +59,7 @@ I thrive in high-pressure environments, learn by building, and use AI-assisted w
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Globe%20Showing%20Americas.png" width="18" height="18" /> Open to remote opportunities worldwide
+  🌎 Open to remote opportunities worldwide
   <br />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="18" height="18" /> <i>"Built an interpreter. Built an emulator. Built IoT firmware. I solve hard problems."</i>
+  💻 <i>"Built an interpreter. Built an emulator. Built IoT firmware. I solve hard problems."</i>
 </div>
